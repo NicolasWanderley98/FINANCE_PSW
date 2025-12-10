@@ -1,6 +1,7 @@
 # 💰 FINANCE_PSW
 
-Sistema de gestão financeira pessoal desenvolvido para auxiliar usuários a controlar contas, organizar receitas e despesas, visualizar extratos e planejar melhor sua vida financeira.
+Sistema de gestão financeira pessoal desenvolvido para auxiliar usuários a controlar contas, organizar receitas e despesas, visualizar extratos e planejar melhor sua vida financeira. 
+Criado durante o curso Pythonando
 
 ---
 
