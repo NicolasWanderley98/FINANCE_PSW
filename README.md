@@ -100,3 +100,11 @@ http://127.0.0.1:8000/contas/ver_contas/
 http://127.0.0.1:8000/perfil/dashboard/
 
 http://127.0.0.1:8000/extrato/view_extrato/
+
+🧪 Demonstração
+
+<img width="1354" height="1378" alt="home" src="https://github.com/user-attachments/assets/02f791e0-12ca-4789-b298-acc3c3b4980d" />
+
+<img width="1354" height="945" alt="gerenciar" src="https://github.com/user-attachments/assets/d2abfc21-3e92-407b-8d18-9f8ea1d42b44" />
+
+
